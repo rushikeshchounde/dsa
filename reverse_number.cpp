@@ -14,5 +14,5 @@ cin>>n;
  cout<<"Reversed Number: "<<reverse<<endl;     
 return 0;
   
-  //reversing teh number using while loop
+ 
 }  
