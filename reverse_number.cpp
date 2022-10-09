@@ -12,5 +12,5 @@ cin>>n;
      n/=10;    
   }    
  cout<<"Reversed Number: "<<reverse<<endl;     
-
+return 0;
 }  
