@@ -2,6 +2,7 @@
 using namespace std;  
 int main()  
 {  
+  //try reverse number using recursion
 int n, reverse=0, rem;    
 cout<<"Enter a number: ";    
 cin>>n;    
