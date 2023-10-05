@@ -12,7 +12,7 @@ cin>>n;
      reverse=reverse*10+rem;    
      n/=10;    
   }    
- cout<<"Reversed Number: "<<reverse<<endl;     
+ cout<<"Reversed Number is : "<<reverse<<endl;     
 return 0;
   
  
